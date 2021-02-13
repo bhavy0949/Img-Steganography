@@ -5,13 +5,11 @@
 Image Steganography is the practice of concealing a message within another file/image.
 
 
-###Sample Command
-
 ## Encode Preview:
  >>>1
- >>>'C:\Users\xyz\Desktop\input.png' # input directory of image
- >>>'Bennett University'
- >>>'C:\Users\xyz\Desktop\output.png' # input directory for output image
+ >>>"C:\Users\xyz\Desktop\input.png" # input directory of image
+ >>>Bennett University
+ >>>"C:\Users\xyz\Desktop\output.png" # input directory for output image
 
 ## Decode Preview:
  >>>'C:\Users\xyz\Desktop\output.png' # input directory
