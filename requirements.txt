@@ -1,0 +1,2 @@
+Python
+Idea of PIL and its operating.
