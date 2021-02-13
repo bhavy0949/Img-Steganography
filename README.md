@@ -6,13 +6,13 @@ Image Steganography is the practice of concealing a message within another file/
 
 
 ## Encode Preview:
- >>>1
- >>>"C:\Users\xyz\Desktop\input.png" # input directory of image
- >>>Bennett University
- >>>"C:\Users\xyz\Desktop\output.png" # input directory for output image
+ 1
+ "C:\Users\xyz\Desktop\input.png" # input directory of image
+ Bennett University # input data
+ "C:\Users\xyz\Desktop\output.png" # input directory for output image
 
 ## Decode Preview:
- >>>'C:\Users\xyz\Desktop\output.png' # input directory
+ 'C:\Users\xyz\Desktop\output.png' # input directory
  Bennett University
  
 
